@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Konstantinos Kaloudis
   avatar: kk.jpg
-  bio: "A brief description of yourself."
+  bio: 
   email: konst.kaloudis@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
