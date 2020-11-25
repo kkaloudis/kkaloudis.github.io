@@ -2,6 +2,9 @@
 layout: page
 excerpt: "About Me..."
 ---
+**Welcome to my homepage!**
+
+*About me*
 
 I am currently a postdoctoral researcher at the Italian [National Research Council](https://www.cnr.it/) (Naples, Italy), working with Dr. [Lucia Russo](http://www.irc.cnr.it/istituto/russol) and Prof. [Constantinos Siettos](http://wpage.unina.it/constantinos.siettos/). Prior to that, I had a postdoc position at the Mathematics Department of [Nazarbayev University](https://nu.edu.kz/) (Nur-Sultan, Kazakhstan) at Prof. [Tassos Bountis](https://thalis.math.upatras.gr/~bountis/)'s group.
 
