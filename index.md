@@ -12,4 +12,4 @@ I completed my PhD (Thesis title: "Bayesian Methods and Estimation of Nonlinear 
 
 Before starting my Ph.D, I received a B.Sc. from the [Mathematics Department](https://math.uoi.gr/) of the University of Ioannina (with a focus on Mathematical Statistics) and a M.Sc. in Statistics and Data Analysis from the Department of Statistics and Actuarial-Financial Mathematics of the University of the Aegean.
 
-My research interests lie in Bayesian Statistics, Nonlinear Dynamical Systems and Statistical Machine Learning. I am generally interested in the interplay between noise and dynamics, in the context of modeling complex systems.
+My research interests lie in Bayesian Statistics, Nonlinear Dynamical Systems and Statistical Machine Learning. 
