@@ -6,7 +6,7 @@ excerpt: "About Me..."
 
 *About me*
 
-I am currently a postdoctoral researcher at the Italian [National Research Council](https://www.cnr.it/) (Naples, Italy), working with Dr. [Lucia Russo](http://www.irc.cnr.it/istituto/russol) and Prof. [Constantinos Siettos](http://wpage.unina.it/constantinos.siettos/). Prior to that, I had a postdoc position at the Mathematics Department of [Nazarbayev University](https://nu.edu.kz/) (Nur-Sultan, Kazakhstan) at Prof. [Tassos Bountis](https://thalis.math.upatras.gr/~bountis/)'s group.
+I am currently a postdoctoral researcher at the Italian [National Research Council](https://www.cnr.it/) (Naples, Italy), working with Dr. [Lucia Russo](http://www.irc.cnr.it/istituto/russol) and Prof. [Constantinos Siettos](http://wpage.unina.it/constantinos.siettos/). Prior to this, I had a postdoc position at the Mathematics Department of [Nazarbayev University](https://nu.edu.kz/) (Nur-Sultan, Kazakhstan) at Prof. [Tassos Bountis](https://thalis.math.upatras.gr/~bountis/)'s group.
 
 I completed my PhD (Thesis title: "Bayesian Methods and Estimation of Nonlinear Dynamical Systems") in the Department of [Statistics and Actuarial-Financial Mathematics](http://www.actuar.aegean.gr/index.php/en/) of the University of the Aegean, under the supervision of Prof. [Spyridon J. Hatjispyros](http://www.samos.aegean.gr/actuar/schatz/index.htm).
 
