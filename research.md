@@ -5,9 +5,9 @@ title:
 Research Interests: Bayesian (Nonparametric) Statistics, Nonlinear (Random) Dynamical Systems, Statistical Machine Learning
 
 ## Publications
-- S. Kadyrov, A. Kashkynbayev, P. Skrzypacz, K. Kaloudis, T. Bountis (2020): "[Periodic solutions and the avoidance of pull--in instability in non--autonomous MEMS](https://arxiv.org/pdf/2010.04475.pdf)", Submitted.
+* S. Kadyrov, A. Kashkynbayev, P. Skrzypacz, K. Kaloudis, T. Bountis (2020): "[Periodic solutions and the avoidance of pull--in instability in non--autonomous MEMS](https://arxiv.org/pdf/2010.04475.pdf)", Submitted.
 
-- T. Oikonomou, K. Kaloudis, B. G. Bagci (2020): "q-exponentials do not maximize the Renyi entropy", Submitted.
+* T. Oikonomou, K. Kaloudis, B. G. Bagci (2020): "q-exponentials do not maximize the Renyi entropy", Submitted.
 
 - T. Bountis, K. Kaloudis, T. Oikonomou, B. Many Manda, Charalampos Skokos (2020): "[Stability Properties of 1-Dimensional Hamiltonian Lattices with Non-analytic Potentials](https://arxiv.org/pdf/2005.06196.pdf) ",  International Journal of Bifurcation and Chaos, to appear.
 
@@ -19,7 +19,7 @@ Research Interests: Bayesian (Nonparametric) Statistics, Nonlinear (Random) Dyna
 
 - C. Merkatas, K. Kaloudis, S. J. Hatjispyros (2017): "[A Bayesian nonparametric approach to reconstruction and prediction of random dynamical systems](http://dx.doi.org/10.1063/1.4990547)", Chaos 27, 063116.
 
-## Theses
+### Theses
 
 - PhD Thesis: "[Bayesian Methods and Estimation of Nonlinear Dynamical Systems](https://thesis.ekt.gr/thesisBookReader/id/46213#page/1/mode/2up)", 
 Advisor:  Prof. S.J. Hatjispyros.
