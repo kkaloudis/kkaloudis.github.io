@@ -2,7 +2,7 @@
 layout: page
 title: 
 ---
-**Research Interests**: Bayesian (Nonparametric) Statistics, Nonlinear (Random) Dynamical Systems, Statistical Machine Learning
+**Research Interests**: Bayesian (Nonparametric) Statistics, Nonlinear (Random) Dynamical Systems, Statistical Machine Learning.
 
 ### Publications
 * S. Kadyrov, A. Kashkynbayev, P. Skrzypacz, K. Kaloudis, T. Bountis (2020): "[Periodic solutions and the avoidance of pull--in instability in non--autonomous MEMS](https://arxiv.org/pdf/2010.04475.pdf)", Submitted.
