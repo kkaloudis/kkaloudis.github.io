@@ -2,14 +2,14 @@
 layout: page
 title: 
 ---
-Research Interests: Bayesian (Nonparametric) Statistics, Nonlinear (Random) Dynamical Systems, Statistical Machine Learning
+**Research Interests**: Bayesian (Nonparametric) Statistics, Nonlinear (Random) Dynamical Systems, Statistical Machine Learning
 
 ### Publications
 * S. Kadyrov, A. Kashkynbayev, P. Skrzypacz, K. Kaloudis, T. Bountis (2020): "[Periodic solutions and the avoidance of pull--in instability in non--autonomous MEMS](https://arxiv.org/pdf/2010.04475.pdf)", Submitted.
 
 * T. Oikonomou, K. Kaloudis, B. G. Bagci (2020): "q-exponentials do not maximize the Renyi entropy", Submitted.
 
-- T. Bountis, K. Kaloudis, T. Oikonomou, B. Many Manda, Charalampos Skokos (2020): "[Stability Properties of 1-Dimensional Hamiltonian Lattices with Non-analytic Potentials](https://arxiv.org/pdf/2005.06196.pdf) ",  International Journal of Bifurcation and Chaos, to appear.
+- T. Bountis, K. Kaloudis, T. Oikonomou, B. Many Manda, Charalampos Skokos (2020): "[Stability Properties of 1-Dimensional Hamiltonian Lattices with Non-analytic Potentials](https://arxiv.org/pdf/2005.06196.pdf)",  International Journal of Bifurcation and Chaos, to appear.
 
 - T. Bountis, K. Kaloudis, C. Spitas (2020): "[Periodically Forced Nonlinear Oscillators With Hysteretic Damping](https://arxiv.org/pdf/2005.06187.pdf)", Journal of Computational and Nonlinear Dynamics, 15 (12), 121006.
 
