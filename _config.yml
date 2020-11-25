@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Website of K. Kaloudis
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -9,11 +9,11 @@ owner:
   name: Konstantinos Kaloudis
   avatar: kk.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: konst.kaloudis@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
+  github: kkaloudis
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: Konstantinos Kaloudis
   facebook: #username
   instagram: #username
   bing-verify:
