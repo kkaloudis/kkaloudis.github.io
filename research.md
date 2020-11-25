@@ -4,7 +4,7 @@ title:
 ---
 Research Interests: Bayesian (Nonparametric) Statistics, Nonlinear (Random) Dynamical Systems, Statistical Machine Learning
 
-## Publications
+### Publications
 * S. Kadyrov, A. Kashkynbayev, P. Skrzypacz, K. Kaloudis, T. Bountis (2020): "[Periodic solutions and the avoidance of pull--in instability in non--autonomous MEMS](https://arxiv.org/pdf/2010.04475.pdf)", Submitted.
 
 * T. Oikonomou, K. Kaloudis, B. G. Bagci (2020): "q-exponentials do not maximize the Renyi entropy", Submitted.
@@ -27,7 +27,7 @@ Advisor:  Prof. S.J. Hatjispyros.
 - MSc Thesis: "Bayesian Parametric Estimation of Discrete Time Random Dynamical Systems",
 Advisor:  Prof. S.J. Hatjispyros.
 
-## Talks-Presentations
+### Talks-Presentations
 - K. Kaloudis, L. Russo, C. Siettos (2020): "Modeling pedestrians and autonomous vehicle dynamics", Dynamics Days Digital 2020.
 
 - K. Kaloudis, T. Bountis, C. Spitas (2020): "Periodically Driven Nonlinear Reid Oscillators", VI Dynamics Days Central Asia, Nur-Sultan, Kazakhstan.
@@ -54,7 +54,7 @@ XXXVI Dynamics Days Europe, Corfu, Greece.
 12th Summer School in Stochastic Finance, Athens University of Economics and Business, Greece.
 
 
-## Posters
+### Posters
 
 - S.J. Hatjispyros, K. Kaloudis,  C. Merkatas (2015): "Bayesian Reconstruction of  Higher Dimensional Nonlinear Dynamical Systems", 
 28th Panhellenic Conference in Statistics, Athens, Greece
