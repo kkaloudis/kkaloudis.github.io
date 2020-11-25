@@ -21,7 +21,7 @@ Research Interests: Bayesian (Nonparametric) Statistics, Nonlinear (Random) Dyna
 
 ## Theses
 
-- PhD Thesis: "Bayesian Methods and Estimation of Nonlinear Dynamical Systems", 
+- PhD Thesis: "[Bayesian Methods and Estimation of Nonlinear Dynamical Systems](https://thesis.ekt.gr/thesisBookReader/id/46213#page/1/mode/2up)", 
 Advisor:  Prof. S.J. Hatjispyros.
 
 - MSc Thesis: "Bayesian Parametric Estimation of Discrete Time Random Dynamical Systems",
