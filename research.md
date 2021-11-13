@@ -5,11 +5,14 @@ title:
 **Research Interests**: Bayesian (Nonparametric) Statistics, Nonlinear (Random) Dynamical Systems, Statistical Machine Learning.
 
 ### Publications
+
+* J. Shena, K. Kaloudis, C. Merkatas, C., M.A. Sanjuán (2021): "[On the approximation of basins of attraction using deep neural networks](https://arxiv.org/pdf/2109.06564.pdf)". Submitted.
+
+* S. Kadyrov, A. Kashkynbayev, P. Skrzypacz, K. Kaloudis, T. Bountis (2021): "[Periodic solutions and the avoidance of pull-in instability in non-autonomous MEMS](https://doi.org/10.1002/mma.7725)", Mathematical Methods in the Applied Sciences.
+
+* T. Oikonomou, K. Kaloudis, B. G. Bagci (2021): "q-exponentials do not maximize the Renyi entropy", Physica A: Statistical Mechanics and its Applications, 126126.
+
 *  K. Kaloudis, G. A. Kevrekidis, H. C. Maltezou, C. Anastassopoulou, A. Tsakris, L. Russo (2020): "[Estimation of the effective reproduction number for SARS-CoV-2 infection during the first epidemic wave in the metropolitan area of Athens, Greece ](https://arxiv.org/pdf/2012.14192.pdf)", Submitted.
-
-* S. Kadyrov, A. Kashkynbayev, P. Skrzypacz, K. Kaloudis, T. Bountis (2020): "[Periodic solutions and the avoidance of pull--in instability in non--autonomous MEMS](https://arxiv.org/pdf/2010.04475.pdf)", Submitted.
-
-* T. Oikonomou, K. Kaloudis, B. G. Bagci (2020): "q-exponentials do not maximize the Renyi entropy", Submitted.
 
 - T. Bountis, K. Kaloudis, T. Oikonomou, B. Many Manda, Charalampos Skokos (2020): "[Stability Properties of 1-Dimensional Hamiltonian Lattices with Non-analytic Potentials](https://arxiv.org/pdf/2005.06196.pdf)",  Int. J. Bifurc. Chaos 30 (15), 2030047.
 
