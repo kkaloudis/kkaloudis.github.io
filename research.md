@@ -6,6 +6,8 @@ title:
 
 ### Publications
 
+* T Bountis, K Kaloudis, J Shena, C Skokos, C Spitas (2022): "[Energy transport in one-dimensional oscillator arrays with hysteretic damping](https://arxiv.org/abs/2111.10816.pdf)", The European Physical Journal Special Topics 231 (3), 225-236.
+
 * J. Shena, K. Kaloudis, C. Merkatas, C., M.A. Sanjuán (2021): "[On the approximation of basins of attraction using deep neural networks](https://arxiv.org/pdf/2109.06564.pdf)". Submitted.
 
 * S. Kadyrov, A. Kashkynbayev, P. Skrzypacz, K. Kaloudis, T. Bountis (2021): "[Periodic solutions and the avoidance of pull-in instability in non-autonomous MEMS](https://doi.org/10.1002/mma.7725)", Mathematical Methods in the Applied Sciences.
@@ -32,7 +34,13 @@ Advisor:  Prof. S.J. Hatjispyros.
 - MSc Thesis: "Bayesian Parametric Estimation of Discrete Time Random Dynamical Systems",
 Advisor:  Prof. S.J. Hatjispyros.
 
-### Talks-Presentations
+### Selected Talks-Presentations
+- K. Kaloudis (2022): "On the approximation of basins of attraction using deep neural networks",  19th e-Summer School in Stochastic Finance, AUEB.
+
+- K. Kaloudis, T. Bountis, C. Spitas (2022): "Energy Transport in 1-Dimensional Oscillator Arrays with Hysteretic Damping" , 28th Summer School-Conference on Dynamical Systems and Complexity, Chania, Greece, Online conference.
+
+- K. Kaloudis (2021): "Random dynamical systems: A Bayesian approach", 18th e-Summer School in Stochastic Finance, AUEB.
+
 - K. Kaloudis, L. Russo, C. Siettos (2020): "Modeling pedestrians and autonomous vehicle dynamics", Dynamics Days Digital 2020.
 
 - K. Kaloudis, T. Bountis, C. Spitas (2020): "Periodically Driven Nonlinear Reid Oscillators", VI Dynamics Days Central Asia, Nur-Sultan, Kazakhstan.
@@ -45,12 +53,6 @@ XXXIX Dynamics Days Europe, Rostock, Germany.
 
 - S. J. Hatjispyros, K. Kaloudis, C. Merkatas (2017): "Reconstruction, Prediction & Noise Reduction: A Bayesian nonparametric approach",
 24th Summer School-Conference on Dynamical Systems and Complexity, University of Thessaly, Greece.
-
-- K. Kaloudis, S. J. Hatjispyros (2016): "A Bayesian approach to dynamical noise reduction",
-23rd Summer School-Conference on Dynamical Systems and Complexity, Chalkidiki, Greece. 
-
-- K. Kaloudis, S. J. Hatjispyros (2016): "A Bayesian approach to dynamical noise reduction",
-29 Panhellenic conference in Statistics, Naousa, Greece.
 
 - K. Kaloudis, S. J. Hatjispyros (2016): "A Bayesian approach to dynamical noise reduction",
 XXXVI Dynamics Days Europe, Corfu, Greece.
