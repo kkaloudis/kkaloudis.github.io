@@ -6,7 +6,10 @@ title:
 
 ### Publications
 
-* T Bountis, K Kaloudis, J Shena, C Skokos, C Spitas (2022): "[Energy transport in one-dimensional oscillator arrays with hysteretic damping](https://arxiv.org/abs/2111.10816.pdf)", The European Physical Journal Special Topics 231 (3), 225-236.
+* K. Kaloudis, T. Bountis, H. Christodoulidi (2023): "[Dynamics and Statistics of Weak Chaos in a 4–D Symplectic Map
+](https://repository.lincoln.ac.uk/articles/conference_contribution/Dynamics_and_Statistics_of_Weak_Chaos_in_a_4_D_Symplectic_Map/25180076)",  In: Bountis, T., Vallianatos, F., Provata, A., Kugiumtzis, D., Kominis, Y. (eds) Chaos, Fractals and Complexity. COSA-Net 2022. Springer Proceedings in Complexity. Springer
+
+* T. Bountis, K. Kaloudis, J. Shena, C. Skokos, C. Spitas (2022): "[Energy transport in one-dimensional oscillator arrays with hysteretic damping](https://arxiv.org/abs/2111.10816.pdf)", The European Physical Journal Special Topics 231 (3), 225-236.
 
 * J. Shena, K. Kaloudis, C. Merkatas, C., M.A. Sanjuán (2021): "[On the approximation of basins of attraction using deep neural networks](https://arxiv.org/pdf/2109.06564.pdf)". Submitted.
 
