@@ -40,6 +40,8 @@ Advisor:  Prof. S.J. Hatjispyros.
 Advisor:  Prof. S.J. Hatjispyros.
 
 ### Selected Talks-Presentations
+- K. Kaloudis (2024): "Statistical Learning for Risk Management",  21st Summer Meeting in Risk, Finance and Stochastics, AUEB.
+
 - K. Kaloudis (2022): "On the approximation of basins of attraction using deep neural networks",  19th e-Summer School in Stochastic Finance, AUEB.
 
 - K. Kaloudis, T. Bountis, C. Spitas (2022): "Energy Transport in 1-Dimensional Oscillator Arrays with Hysteretic Damping" , 28th Summer School-Conference on Dynamical Systems and Complexity, Chania, Greece, Online conference.
