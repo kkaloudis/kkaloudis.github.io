@@ -6,6 +6,8 @@ title:
 
 ### Publications
 
+* M. Temirkhan, H.B. Tariq, K. Kaloudis, C. Kalligeros, V. Spitas, & C. Spita (2022). Parametric quasi-static study of the effect of misalignments on the path of contact, transmission error, and contact pressure of crowned spur and helical gear teeth using a novel rapidly convergent method. Applied Sciences, 12(19), 10067.
+
 * K. Kaloudis, T. Bountis, H. Christodoulidi (2023): "[Dynamics and Statistics of Weak Chaos in a 4–D Symplectic Map
 ](https://repository.lincoln.ac.uk/articles/conference_contribution/Dynamics_and_Statistics_of_Weak_Chaos_in_a_4_D_Symplectic_Map/25180076)",  In: Bountis, T., Vallianatos, F., Provata, A., Kugiumtzis, D., Kominis, Y. (eds) Chaos, Fractals and Complexity. COSA-Net 2022. Springer Proceedings in Complexity. Springer
 
